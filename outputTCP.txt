@@ -1,0 +1,68 @@
+[System Process]	0	TCP	desktop-6jr03io.localdomain	51153	den03s10-in-f33.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-6jr03io.localdomain	51212	204.79.197.220	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-6jr03io.localdomain	51213	204.79.197.220	https	TIME_WAIT										
+firefox.exe	6180	TCP	DESKTOP-6JR03IO	49957	localhost	49958	ESTABLISHED			900	900		14		14		
+firefox.exe	6180	TCP	DESKTOP-6JR03IO	49958	localhost	49957	ESTABLISHED	900	900			14		14			
+firefox.exe	5304	TCP	DESKTOP-6JR03IO	49960	localhost	49961	ESTABLISHED										
+firefox.exe	5304	TCP	DESKTOP-6JR03IO	49961	localhost	49960	ESTABLISHED										
+firefox.exe	6864	TCP	DESKTOP-6JR03IO	49962	localhost	49963	ESTABLISHED										
+firefox.exe	6864	TCP	DESKTOP-6JR03IO	49963	localhost	49962	ESTABLISHED										
+firefox.exe	3408	TCP	DESKTOP-6JR03IO	50044	localhost	50045	ESTABLISHED			1,025	1,025						
+firefox.exe	3408	TCP	DESKTOP-6JR03IO	50045	localhost	50044	ESTABLISHED	1,025	1,025								
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	50267	ec2-54-149-200-181.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	4944	TCP	DESKTOP-6JR03IO	51037	localhost	51038	ESTABLISHED										
+firefox.exe	4944	TCP	DESKTOP-6JR03IO	51038	localhost	51037	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51054	lb-192-30-253-124-iad.github.com	https	ESTABLISHED	2	70	2	62						
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51170	lb-192-30-255-112-sea.github.com	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51171	lb-192-30-255-112-sea.github.com	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51173	ec2-52-71-70-228.compute-1.amazonaws.com	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51174	lb-192-30-255-117-sea.github.com	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51175	den03s10-in-f46.1e100.net	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51176	151.101.52.133	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51183	151.101.52.133	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51184	151.101.52.133	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51188	151.101.52.133	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51189	151.101.52.133	https	ESTABLISHED										
+firefox.exe	6180	TCP	desktop-6jr03io.localdomain	51211	lb-192-30-253-124-iad.github.com	https	ESTABLISHED										
+gpg-agent.exe	5080	TCP	DESKTOP-6JR03IO	51008	DESKTOP-6JR03IO	0	LISTENING										
+gpg-agent.exe	5080	TCP	DESKTOP-6JR03IO	51010	DESKTOP-6JR03IO	0	LISTENING										
+gpg-agent.exe	5080	TCP	DESKTOP-6JR03IO	51011	DESKTOP-6JR03IO	0	LISTENING										
+gpg-agent.exe	5080	TCP	DESKTOP-6JR03IO	51012	DESKTOP-6JR03IO	0	LISTENING										
+kleopatra.exe	1684	TCP	DESKTOP-6JR03IO	51004	DESKTOP-6JR03IO	0	LISTENING										
+lsass.exe	664	TCP	DESKTOP-6JR03IO	49667	DESKTOP-6JR03IO	0	LISTENING										
+lsass.exe	664	TCPV6	desktop-6jr03io	49667	desktop-6jr03io	0	LISTENING										
+services.exe	640	TCP	DESKTOP-6JR03IO	49668	DESKTOP-6JR03IO	0	LISTENING										
+services.exe	640	TCPV6	desktop-6jr03io	49668	desktop-6jr03io	0	LISTENING										
+spoolsv.exe	1396	TCP	DESKTOP-6JR03IO	49666	DESKTOP-6JR03IO	0	LISTENING										
+spoolsv.exe	1396	TCPV6	desktop-6jr03io	49666	desktop-6jr03io	0	LISTENING										
+svchost.exe	896	TCP	DESKTOP-6JR03IO	epmap	DESKTOP-6JR03IO	0	LISTENING										
+svchost.exe	720	TCP	desktop-6jr03io.localdomain	5040	DESKTOP-6JR03IO	0	LISTENING										
+svchost.exe	64	TCP	DESKTOP-6JR03IO	49665	DESKTOP-6JR03IO	0	LISTENING										
+svchost.exe	496	TCP	DESKTOP-6JR03IO	49669	DESKTOP-6JR03IO	0	LISTENING										
+svchost.exe	496	TCP	desktop-6jr03io.localdomain	49676	13.89.217.116	https	ESTABLISHED										
+svchost.exe	496	TCP	desktop-6jr03io.localdomain	49699	13.89.217.116	https	ESTABLISHED										
+svchost.exe	2960	TCP	desktop-6jr03io.localdomain	51214	a184-86-26-67.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+svchost.exe	3916	UDP	DESKTOP-6JR03IO	ssdp	*	*				3	411						
+svchost.exe	3916	UDP	desktop-6jr03io.localdomain	ssdp	*	*											
+svchost.exe	720	UDP	DESKTOP-6JR03IO	5050	*	*											
+svchost.exe	1148	UDP	DESKTOP-6JR03IO	5353	*	*											
+svchost.exe	1148	UDP	DESKTOP-6JR03IO	llmnr	*	*											
+svchost.exe	496	UDP	DESKTOP-6JR03IO	55831	*	*											
+svchost.exe	3916	UDP	desktop-6jr03io.localdomain	59608	*	*											
+svchost.exe	3916	UDP	DESKTOP-6JR03IO	59609	*	*		3	411								
+svchost.exe	896	TCPV6	desktop-6jr03io	epmap	desktop-6jr03io	0	LISTENING										
+svchost.exe	64	TCPV6	desktop-6jr03io	49665	desktop-6jr03io	0	LISTENING										
+svchost.exe	496	TCPV6	desktop-6jr03io	49669	desktop-6jr03io	0	LISTENING										
+svchost.exe	3916	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	3916	UDPV6	[fe80:0:0:0:d88:962e:649b:c9d2]	1900	*	*											
+svchost.exe	1148	UDPV6	desktop-6jr03io	5353	*	*											
+svchost.exe	1148	UDPV6	desktop-6jr03io	5355	*	*											
+svchost.exe	3916	UDPV6	[fe80:0:0:0:d88:962e:649b:c9d2]	59606	*	*											
+svchost.exe	3916	UDPV6	[0:0:0:0:0:0:0:1]	59607	*	*											
+System	4	TCP	desktop-6jr03io.localdomain	netbios-ssn	DESKTOP-6JR03IO	0	LISTENING										
+System	4	TCP	DESKTOP-6JR03IO	microsoft-ds	DESKTOP-6JR03IO	0	LISTENING										
+System	4	UDP	desktop-6jr03io.localdomain	netbios-ns	*	*		3	204								
+System	4	UDP	desktop-6jr03io.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-6jr03io	microsoft-ds	desktop-6jr03io	0	LISTENING										
+wininit.exe	524	TCP	DESKTOP-6JR03IO	49664	DESKTOP-6JR03IO	0	LISTENING										
+wininit.exe	524	TCPV6	desktop-6jr03io	49664	desktop-6jr03io	0	LISTENING										
